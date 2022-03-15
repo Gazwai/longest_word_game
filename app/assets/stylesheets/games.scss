@@ -46,3 +46,14 @@ li {
   border-radius: 2px;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
 }
+
+.container-form {
+  float: left;
+  width: 100%;
+  border: 3px solid #73ad21;
+  padding: 10px;
+}
+
+input {
+  width: 80%;
+}
